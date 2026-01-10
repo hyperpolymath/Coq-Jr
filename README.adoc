@@ -1,4 +1,8 @@
 = Coq-Jr: Web-Native Interactive Theorem Proving
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+
+
+
 :toc: macro
 :toc-title: Contents
 :toclevels: 3
@@ -13,7 +17,6 @@
 [discrete]
 == Status: Alpha (v0.2.0-dev)
 
-image:https://img.shields.io/badge/license-MIT%20OR%20AGPL--3.0--or--later-blue[License]
 image:https://img.shields.io/badge/coq-compatible-orange[Coq Compatible]
 image:https://img.shields.io/badge/rescript-v11-red[ReScript]
 image:https://img.shields.io/badge/deno-v2-black[Deno]
@@ -392,10 +395,10 @@ We welcome contributions! Please see link:CONTRIBUTING.adoc[CONTRIBUTING.adoc] f
 
 Dual-licensed under your choice of:
 
-* MIT License
-* GNU Affero General Public License v3.0 or later (AGPL-3.0-or-later)
+* Palimpsest-MPL License v1.0 (PMPL-1.0)
+* GNU Affero General Public License v3.0 or later (PMPL-1.0-or-later)
 
-See link:LICENSE-MIT[LICENSE-MIT] and link:LICENSE-AGPL[LICENSE-AGPL] for details.
+See link:LICENSE-PMPL-1.0[LICENSE-PMPL-1.0] and link:LICENSE-AGPL[LICENSE-AGPL] for details.
 
 == Acknowledgements
 
